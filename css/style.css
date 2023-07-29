@@ -1,0 +1,25 @@
+.my-style{
+    height: 500px;
+    border: 1px solid red;
+    width: 50%;
+}
+
+.div-red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.div-blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.div-green{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 50%;
+}
